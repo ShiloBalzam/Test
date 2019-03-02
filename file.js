@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Update and Download URL Metadata Test
-// @version     1
+// @version     1.2
 // @updateURL   https://raw.githubusercontent.com/ShiloBalzam/Test/master/file.js
 // @downloadURL https://raw.githubusercontent.com/ShiloBalzam/Test/master/file.js
 // @match        https://oload.space/f/*
